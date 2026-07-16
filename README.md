@@ -66,4 +66,4 @@ If you want to run this project locally on your machine:
 
 **Adhi**
 - GitHub: [@developeradhi](https://github.com/developeradhi)
-- Portfolio: (https://adarsh-ui.vercel.app)
+- Portfolio: (https://adhi.is-a.dev)
